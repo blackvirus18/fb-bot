@@ -1,0 +1,8 @@
+{
+  "common": {
+    "facbookBaseApi":"https://graph.facebook.com/v2.6"
+  },
+  "production": {
+    "facbookBaseApi":"https://graph.facebook.com/v2.6"
+  }
+}
