@@ -1,6 +1,7 @@
 {
   "common": {
-    "facbookBaseApi":"https://graph.facebook.com/v2.6"
+    "facbookBaseApi":"https://graph.facebook.com/v2.6",
+    "hotelBookingApi":"http://demokw.bot.rehlat.com/v1/Rehlat/BOT/HotelViewBookingDetails"
   },
   "production": {
     "facbookBaseApi":"https://graph.facebook.com/v2.6"
